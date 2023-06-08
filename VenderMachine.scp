@@ -1,0 +1,1 @@
+simu -b -mvendermachine.ma -evendermachine.ev -lvendermachine.log -ovendermachine.out

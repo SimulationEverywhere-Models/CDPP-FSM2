@@ -1,0 +1,1 @@
+simu -b -mmoorestate.ma -emoorestate.ev -lmoorestate.log -omoorestate.out

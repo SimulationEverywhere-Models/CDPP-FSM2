@@ -1,0 +1,1 @@
+simu -b -mtelephony.ma -etelephony.ev -ltelephony.log -otelephony.out
